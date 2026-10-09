@@ -1,0 +1,36 @@
+﻿# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+.venv-*/
+venv/
+env/
+
+# Local backups and patches
+*.original
+*_backup.py
+*.patch
+
+# Build outputs
+build/
+dist/
+*.spec
+
+# IDE settings
+.vscode/
+.idea/
+
+# Test artifacts
+.coverage
+htmlcov/
+.pytest_cache/
+
+# Local environment files
+.env
+.env.*
+
+# Operating system files
+Thumbs.db
+.DS_Store
