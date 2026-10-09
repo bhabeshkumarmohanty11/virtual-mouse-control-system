@@ -1,4 +1,7 @@
-﻿VIRTUAL MOUSE CONTROL SYSTEM
+﻿
+![Virtual Mouse Control System](assets/virtual-mouse-thumbnail.png)
+
+VIRTUAL MOUSE CONTROL SYSTEM
 
 A Webcam-Based Hand Gesture Mouse Control Application
 
